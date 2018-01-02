@@ -1,0 +1,6 @@
+九火游戏WINDOWS端测试用客户端程序，仅用于测试调试界面显示效果使用
+
+因为需要配合LUA脚本，所以请运行“CreateRun.bat”将必要的文件拷贝到“mobile\client”目录中
+
+当调试环境不再需要时，运行“DeleteRun.bat”自动删除所有无用文件
+
